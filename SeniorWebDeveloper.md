@@ -47,10 +47,9 @@ We are looking for Senior Web Developers with work experience. You must be someo
 
 * Tickets for conferences and seminars (optional, after trial)
 
-Please apply with your CV (in English only) and state your salary expectations in Levs (required).
-We want to hire the best of the best, but we also can teach you how to be one.
+**Please apply with your CV (in English only) and state your salary expectations in Levs (required).**
 
-So, the compensation depends on your experience & current skills set, we are very flexible and want you to grow with us! At the same time, expect lots of hard work (but without overtime or deadlines) and expect real compensation depending on your skills, not something abstract or unreasonably large (we are still very agile and lean company).
+We want to hire the best of the best, but we also can teach you how to be one. So, the compensation depends on your experience & current skills set, we are very flexible and want you to grow with us! At the same time, expect lots of hard work (but without overtime or deadlines) and expect real compensation depending on your skills, not something abstract or unreasonably large (we are still very agile and lean company).
 
 ### Join our R&D team and let's build Ever company together! We look forward to meeting you!
 *Note - only shortlisted candidates will be contacted.*
