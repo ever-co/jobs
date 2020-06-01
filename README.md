@@ -28,3 +28,6 @@ The sky is not the limit for us and for you!
 
 ### [Website](https://ever.co)
 ### [Linkedin](https://www.linkedin.com/company/ever-technologies)
+
+## Apply now
+**Email: jobs@ever.co**
