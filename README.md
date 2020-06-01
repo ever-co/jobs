@@ -4,7 +4,7 @@ Ever Jobs
  * [Senior Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
  * [Junior Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
  * [Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
- * [UI/Ux Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
+ * [UI/UX Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
  
 # About our Comapny
 Our parent company based in Israel with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
