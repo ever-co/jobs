@@ -10,6 +10,7 @@ You must be someone who is smart, very motivated and has built multiple small pr
 
 ### About Us
 * We are building custom software for customers worldwide: USA / UK / Australia, lots of interesting and challenging projects, guaranteed!
+
 * We are building multiple open-source platforms, so you will contribute to the popular & growing open-source projects directly on Github!
 
 ### Key responsibilities and required skills
@@ -36,14 +37,23 @@ So, apply if you just starting your professional career and build at least few a
 
 ### Benefits for you
 * First real work, real salary and lots, lots of learning!
+
 * Tons of interesting projects - you will be doing contributions to both proprietary and open-source software!
+
 * Free drinks at the office
+
 * Flexible working hours
+
 * Transportation compensation (365 leva per year)
+
 * Sports club membership (free)
+
 * Work from home/remote option
+
 * Monthly/yearly bonus (after the trial period we pay additional bonuses based on your performance, monthly!)
+
 * Free training/courses (optional, after trial)
+
 * Tickets for conferences and seminars (optional, after trial)
 
 ### Please apply with your CV (in English only) and state your salary expectations in Levs (required).
