@@ -22,7 +22,7 @@ We are looking for Senior Web Developers with work experience. You must be someo
 
 *  Experience with both .NET and NodeJS also considered as a bonus.
 
-The link to your Github page, full of repos with your commits is very welcome! It's not necessary should be huge apps, but something which will show you can build things from the first days at work!
+**The link to your Github page, full of repos with your commits is very welcome! It's not necessary should be huge apps, but something which will show you can build things from the first days at work!**
 
 *  Learn new things extremely fast and can work on tasks independently and in the team
 
