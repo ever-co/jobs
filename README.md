@@ -4,7 +4,7 @@
  * [Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
  * [UI/UX Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
  
-# About our Comapny
+# About our Compаny
 Our parent company based in Israel with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
 
  **In addition, we are building multiple Open-Source platforms:**
