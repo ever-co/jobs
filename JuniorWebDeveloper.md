@@ -62,3 +62,6 @@ We want to hire the best of the best, but we also can teach you how to be one, i
 
 ### Join our R&D team and let's build Ever company together! We look forward to meeting you!
 *Note - only shortlisted candidates will be contacted.*
+
+## Apply now
+**Email: jobs@ever.co**
