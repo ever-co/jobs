@@ -51,3 +51,6 @@
 
 ### Join our R&D team and let's build Ever company together! We look forward to meeting you!
 *Note - only shortlisted candidates will be contacted for an interview.*
+
+## Apply now
+##### Email: jobs@ever.co
