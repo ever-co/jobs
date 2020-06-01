@@ -1,5 +1,3 @@
-
-Ever Jobs
 # Available Positions
  * [Senior Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
  * [Junior Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
