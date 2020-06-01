@@ -1,6 +1,12 @@
 
 Ever Jobs
-# About the comapny
+# Available Positions
+ * [Senior Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
+ * [Junior Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
+ * [Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
+ * [UI/Ux Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
+ 
+# About our Comapny
 Our parent company based in Israel with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
 
  **In addition, we are building multiple Open-Source platforms:**
@@ -9,7 +15,7 @@ Our parent company based in Israel with customers worldwide: USA, UK, Australia 
 
 Currently, we are looking for talented & enthusiastic Web Developers to expand our R&D team in Bulgaria.
 
-# Career in the company
+# Career in our company
 We are an agile team, where you will learn a lot doing multiple
 amazing proprietary and open-source projects!
 
@@ -19,8 +25,8 @@ In addition, we are paying large bonuses (monthly!, after trial period) shared f
 
 The sky is not the limit for us and for you!
 
-# Contacts:
+# Contacts
 ## EVER TECHNOLOGIES LTD
-### Address: Boulevard "Simeonovsko Shose 104, 1700 Kv. Vitosha, Sofia
+
 ### [Website](https://ever.co)
 ### [Linkedin](https://www.linkedin.com/company/ever-technologies)
