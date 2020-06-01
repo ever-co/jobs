@@ -1,7 +1,7 @@
 # Web Developer Internship
 
 ### Introduction
-We are looking for Web Developer Interns (Стажанти) and expect you to be learning software development for some time in a well-known Academy, University, Bootcamp or on your own and now you feel you are ready to start working on real projects.
+We are looking for Web Developer Interns and expect you to be learning software development for some time in a well-known Academy, University, Bootcamp or on your own and now you feel you are ready to start working on real projects.
 
 **This is a PAID internship (3-6 months), FULL-TIME, which can grow in a steady full-time position and we are absolutely sure you will love it.**
 
