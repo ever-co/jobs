@@ -53,4 +53,4 @@
 *Note - only shortlisted candidates will be contacted for an interview.*
 
 ## Apply now
-##### Email: jobs@ever.co
+**Email: jobs@ever.co**
