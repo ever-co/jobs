@@ -45,3 +45,6 @@ So, apply if you just starting your professional career and build at least few a
 
 ### Join our R&D team and let's build Ever company together! We look forward to meeting you!
 *Note - only shortlisted candidates will be contacted.*
+
+## Apply now
+**Email: jobs@ever.co**
