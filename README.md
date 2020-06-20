@@ -9,7 +9,7 @@ Our parent company based in Israel with customers worldwide: USA, UK, Australia 
 
  **In addition, we are building multiple Open-Source platforms:**
   *  Ever® - the world's first Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces (see https://github.com/ever-co/ever)
-  * Gauzy™ - Open-Source Business Management Platform focused on Fairness and Transparency (see https://github.com/ever-co/gauzy)
+  * Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency (see https://github.com/ever-co/gauzy)
 
 Currently, we are looking for talented & enthusiastic Web Developers to expand our R&D team in Bulgaria.
 
