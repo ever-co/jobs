@@ -1,10 +1,17 @@
-# Available Positions
- * [Senior Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
- * [Junior Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
- * [Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
+# We're Hiring!
+
+Ever is an engineering company. We hire software engineers focused on web and mobile development using TypeScript.
+Take a look at the positions we are hiring for below.  
+
+Interested? Then drop us a short introductory email to jobs@ever.co and please include a link to your GitHub profile.
+
+## Available Positions
+ * [Senior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
+ * [Junior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
+ * [Full-Stack Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
  * [UI/UX Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
  
-# About our Compаny
+## About our Compаny
 Our parent company based in Israel with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
 
  **In addition, we are building multiple Open-Source platforms:**
@@ -13,7 +20,7 @@ Our parent company based in Israel with customers worldwide: USA, UK, Australia 
 
 Currently, we are looking for talented & enthusiastic Web Developers to expand our R&D team in Bulgaria.
 
-# Career in our company
+## Career in our company
 We are an agile team, where you will learn a lot doing multiple
 amazing proprietary and open-source projects!
 
@@ -23,11 +30,11 @@ In addition, we are paying large bonuses (monthly!, after trial period) shared f
 
 The sky is not the limit for us and for you!
 
-# Contacts
-## EVER TECHNOLOGIES LTD
+## Contacts
+### EVER TECHNOLOGIES LTD
 
-### [Website](https://ever.co)
-### [Linkedin](https://www.linkedin.com/company/ever-technologies)
+#### [Website](https://ever.co)
+#### [Linkedin](https://www.linkedin.com/company/ever-technologies)
 
-## Apply now
+### Apply now
 **Email: jobs@ever.co**
