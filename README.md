@@ -1,6 +1,6 @@
 # We're Hiring!
 
-Ever is an engineering company. We hire software engineers focused on web and mobile development using TypeScript.
+[Ever](https://ever.co) is an engineering company. We hire software engineers focused on web and mobile development using TypeScript.
 Take a look at the positions we are hiring for below.  
 
 Interested? Then drop us a short introductory email to jobs@ever.co and please include a link to your GitHub profile.
@@ -12,10 +12,13 @@ Interested? Then drop us a short introductory email to jobs@ever.co and please i
  * [UI/UX Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
  
 ## About our Compаny
-Our parent company based in Israel with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
+
+Our R&D offices are in Bulgaria, but we remote first company.
+
+Our parent company based in Israel ([Ever Co.](https://ever.co)) with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
 
  **In addition, we are building multiple Open-Source platforms:**
-  *  Ever® - the world's first Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces (see https://github.com/ever-co/ever)
+  * Ever® - the world's first Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces (see https://github.com/ever-co/ever)
   * Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency (see https://github.com/ever-co/gauzy)
 
 Currently, we are looking for talented & enthusiastic Web Developers to expand our R&D team in Bulgaria.
@@ -33,7 +36,7 @@ The sky is not the limit for us and for you!
 ## Contacts
 ### EVER TECHNOLOGIES LTD
 
-#### [Website](https://ever.co)
+#### [Website](https://ever.tech)
 #### [Linkedin](https://www.linkedin.com/company/ever-technologies)
 
 ### Apply now
