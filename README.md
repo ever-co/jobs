@@ -1,9 +1,12 @@
 # We're Hiring!
 
 [Ever](https://ever.co) is an engineering company. We hire software engineers focused on web and mobile development using TypeScript.
-Take a look at the positions we are hiring for below.  
+Take a look at the positions we are hiring for below.
 
-Interested? Then drop us a short introductory email to jobs@ever.co and please include a link to your GitHub profile.
+The work is for a live, ongoing products (open-source!) which our company builds, and there is no final delivery or fixed scope.
+In addition, after at least few months of full-time work, we can add you to our customers projects team and start paying bonuses for great work on different proprietary projects.
+
+Interested? Then drop us a short introductory email to jobs@ever.co and please include a link to your GitHub/GitLab/Bitbucket (for Engineers) or Behance (for Designers) profile(s).
 
 ## Available Positions
  * [Senior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
