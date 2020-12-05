@@ -1,11 +1,10 @@
-# We're Hiring!
+# We're Hiring! :rocket:
 
 [Ever](https://ever.co) is an engineering company.
 
-We hire full-time/remote software engineers focused on web and mobile development (mostly using TypeScript) who love to work on multiple amazing [open-source](https://github.com/ever-co) and commercial projects.
+We hire full-time/remote software engineers focused on web and mobile development (mostly using TypeScript) who 💖 to work on multiple amazing :star: [open-source](https://github.com/ever-co) and commercial :heavy_dollar_sign: projects.
 
-In addition to our full-time employees we working with multiple contractors and also building our own Talent network for developers who love Open-Source.
-We are welcome you to check https://everiq.co and join the waiting list to get onboard when we launch in 2021.
+In addition to our full-time employees we working with multiple contractors and also building our own Talent network for developers who ❤️ to work on Open-Source projects (and get paid for that :moneybag:). We are welcome you to check https://everiq.co and join the waiting list to get onboard when we launch in 2021.
 
 If you are looking for full-time work with us, please take a look at the positions we are hiring for below.
 
