@@ -32,7 +32,7 @@ Our parent company based in Israel ([Ever Co.](https://ever.co)) with customers 
   
   * Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency (see https://github.com/ever-co/gauzy)
 
-Currently, we are looking for talented & enthusiastic Web Developers to expand our R&D team in Bulgaria.
+Currently, we are looking for talented & enthusiastic Web Developers (full-stack) to expand our R&D team, who can work remotely or in the Sofia office.
 
 ## Career in our company
 
