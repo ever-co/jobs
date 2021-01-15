@@ -15,6 +15,7 @@ Interested? Then drop us a short introductory email to jobs@ever.co and please i
 
 ## Available Positions
 
+ * [DevOps Engineer](https://github.com/ever-co/jobs/blob/master/DevOps.md)
  * [Senior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
  * [Junior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
  * [Full-Stack Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
