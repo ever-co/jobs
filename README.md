@@ -1,49 +1,28 @@
 # We're Hiring! :rocket:
 
-[Ever](https://ever.co) is an engineering company.
-
-We hire full-time/remote software engineers focused on web and mobile development (mostly using TypeScript) who 💖 to work on multiple amazing :star: [open-source](https://github.com/ever-co) and commercial :heavy_dollar_sign: projects.
-
-In addition to our full-time employees we working with multiple contractors and also building our own Talent network for developers who ❤️ to work on Open-Source projects (and get paid for that :moneybag:). We are welcome you to check https://everiq.co and join the waiting list to get onboard when we launch in 2021.
-
-If you are looking for full-time work with us, please take a look at the positions we are hiring for below.
-
-The work is for a live, ongoing products (open-source!) which our company builds, and there is no final delivery or fixed scope.
-In addition, after at least few months of full-time work, we can add you to our customers projects team and start paying bonuses for great work on different proprietary projects.
-
-Interested? Then drop us a short introductory email to jobs@ever.co and please include a link to your GitHub/GitLab/Bitbucket (for Engineers) or Behance (for Designers) profile(s).
+At [Ever Tech](https://ever.tech) there are three ways in: an internship, a full-time role, or a contract, all for engineers who operate AI agents as well as they write code. You work on client products and on our own platforms, Ever Works and Ever Platform.
 
 ## Available Positions
 
- * [DevOps Engineer](https://github.com/ever-co/jobs/blob/master/DevOps.md)
- * [Senior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/SeniorWebDeveloper.md)
- * [Junior Full-Stack Web Developer](https://github.com/ever-co/jobs/blob/master/JuniorWebDeveloper.md)
- * [Full-Stack Web Developer Intern](https://github.com/ever-co/jobs/blob/master/WebDeleloperIntern.md)
- * [UI/UX Designer](https://github.com/ever-co/jobs/blob/master/UiUxDesigner.md)
- 
-## About our Compаny
+* [Product Engineer Intern — AI Operator](https://github.com/ever-co/jobs/blob/master/ProductEngineerIntern.md): A paid 3–6 month internship operating AI agents under a senior operator. Sofia (hybrid) or remote EU.
+* [Product Engineer — AI Operator](https://github.com/ever-co/jobs/blob/master/ProductEngineer.md): Own client outcomes with a small team of AI agents. Remote (EU time zones) or Sofia.
+* [Senior Product Engineer — AI Operator (Contract)](https://github.com/ever-co/jobs/blob/master/SeniorProductEngineerContract.md): Lead engagements, a team of agents and the client relationship as a contractor, 20–40 h/week. Remote, any time zone.
 
-Our R&D offices are in Bulgaria, but we remote first company.
+The same roles are published at [ever.tech/careers](https://ever.tech/careers).
 
-Our parent company based in Israel ([Ever Co.](https://ever.co)) with customers worldwide: USA, UK, Australia & Israel, lots of interesting and challenging projects guaranteed!
+## How to apply
 
- **In addition, we are building multiple Open-Source platforms:**
-  
-  * Ever® - the world's first Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces (see https://github.com/ever-co/ever)
-  
-  * Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency (see https://github.com/ever-co/gauzy)
+No cover letter. Send a GitHub/GitLab profile and one paragraph: the last thing you shipped with an AI agent, what it got wrong, and what you did about it. We reply within three business days.
 
-Currently, we are looking for talented & enthusiastic Web Developers (full-stack) to expand our R&D team, who can work remotely or in the Sofia office.
+Apply on the role's page on ever.tech or email ever@ever.tech.
 
-## Career in our company
+We anonymise applicant data 12 months after an application closes, or earlier on request (ever@ever.tech).
 
-We are an agile team, where you will learn a lot doing multiple amazing proprietary and open-source projects!
+## About Us
 
-We do have nice offices in Sofia, but we are a remote company and many of our employees working from home / remote.
+Ever Technologies is a software agency founded in Israel in 2015 with an engineering office in Bulgaria since 2017. We build products for clients and our own open-source platforms (Ever Gauzy, Ever Teams, Ever Works, Ever Rec, Ever Traduora — 100+ contributors). Today we sell three things by the hour: our human product engineers, human-operated agents — pre-built AI engineers that our people operate — and teams of both, led by one of us. Clients hire our humans on Upwork (and soon on Cloc Now) and our agents and teams by the hour on Cloc Now; our agents are branded Ever Agents, and they build on our own platforms, Ever Works and Ever Platform.
 
-In addition, we are paying large bonuses (monthly!, after trial period) shared from our revenue!
-
-The sky is not the limit for us and for you!
+Small senior teams, daily written updates, weekly demos, everything in the client's repos from day one. We use AI for everything it is good at and we check all of it. We ship in weeks, and we keep shipping.
 
 ## Contacts
 
@@ -52,5 +31,4 @@ The sky is not the limit for us and for you!
 #### [Website](https://ever.tech)
 #### [Linkedin](https://www.linkedin.com/company/ever-technologies)
 
-### Apply now
-**Email: jobs@ever.co**
+**Email: ever@ever.tech**
