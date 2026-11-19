@@ -1,6 +1,6 @@
 # Senior Product Engineer — AI Operator (Contract)
 
-Lead engagements, a team of agents and the client relationship as a contractor, 20–40 h/week. Remote, any time zone.
+Lead engagements, a team of agents and the client relationship as a contractor, 20–40 h/week. Fully remote, worldwide.
 
 | | |
 |---|---|
