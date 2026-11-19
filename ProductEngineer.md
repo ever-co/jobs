@@ -56,7 +56,7 @@ We anonymise applicant data 12 months after an application closes, or earlier on
 
 ## About Us
 
-Ever Technologies is a software agency founded in Israel in 2015 and an engineering company in Bulgaria since 2017. We build products for clients and our own open-source platforms (Ever Gauzy, Ever Teams, Ever Works, Ever Rec, Ever Traduora — 100+ contributors). Today we sell three things by the hour: our human product engineers, human-operated agents — pre-built AI engineers that our people operate — and teams of both, led by one of us. Clients hire our humans on Upwork (and soon on Cloc Now) and our agents and teams by the hour on Cloc Now; our agents are branded Ever Agents, and they build on our own platforms, Ever Works and Ever Platform.
+Ever Technologies is a software agency founded in Israel in 2015 and an engineering company in Bulgaria since 2017. We build products for clients and our own open-source platforms (Ever Gauzy, Ever Teams, Ever Works, Ever Rec, Ever Traduora — 100+ contributors). Today we sell three things by the hour: our human product engineers, human-operated agents — pre-built AI engineers that our people operate — and teams of both, led by one of us. Clients hire our humans directly or on Upwork (and soon on Cloc Now) and our agents and teams by the hour on Cloc Now; our agents are branded Ever Agents, and they build on our own platforms, Ever Works and Ever Platform.
 
 Small senior teams, daily written updates, weekly demos, everything in the client's repos from day one. We use AI for everything it is good at and we check all of it. We ship in weeks, and we keep shipping.
 
