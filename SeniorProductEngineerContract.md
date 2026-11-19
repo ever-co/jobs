@@ -5,7 +5,7 @@ Lead engagements, a team of agents and the client relationship as a contractor, 
 | | |
 |---|---|
 | **Job Type** | Contract, 20–40 h/week |
-| **Location** | Remote, any time zone (4 h overlap with EET) |
+| **Location** | Remote (worldwide) |
 | **Posted** | October 2026 |
 | **Contact Email** | ever@ever.tech |
 
@@ -36,7 +36,7 @@ You run several AI agents at once on real client projects. You turn tickets and 
 
 Hourly or monthly pay (role-specific below), fully remote, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
 
-Terms: contract, 20–40 h/week, remote any time zone with 4 h overlap with EET, hourly rate in line with our Lead package ($49/h), paid through Upwork or by direct invoice — your choice.
+Terms: contract, 20–40 h/week, remote (worldwide), fully async, hourly rate in line with our Lead package ($49/h), paid through Upwork or by direct invoice — your choice.
 
 Stack: TypeScript end to end (NestJS, Next.js, Angular, React Native), Rust and SolidJS for our newer platforms, PostgreSQL, Kubernetes on our own cluster, GitHub, Linear/Plane, Slack/Telegram/Discord. Agents run on Claude Code / Agent SDK, Codex, OpenClaw and OpenHands, chosen per agent, each on its own isolated machine; you operate them from our operator console. Runtimes change, judgement does not.
 
