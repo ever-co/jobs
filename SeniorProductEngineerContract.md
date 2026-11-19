@@ -34,7 +34,7 @@ You run several AI agents at once on real client projects. You turn tickets and 
 
 ## What you get
 
-Hourly or monthly pay (role-specific below), remote-first, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
+Hourly or monthly pay (role-specific below), fully remote, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
 
 Terms: contract, 20–40 h/week, remote any time zone with 4 h overlap with EET, hourly rate in line with our Lead package ($49/h), paid through Upwork or by direct invoice — your choice.
 

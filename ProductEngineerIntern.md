@@ -35,7 +35,7 @@ You run several AI agents at once on real client projects. You turn tickets and 
 
 ## What you get
 
-Hourly or monthly pay (role-specific below), remote-first, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
+Hourly or monthly pay (role-specific below), fully remote, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
 
 Terms: paid, 20–40 h/week, remote (worldwide), laptop + model budget provided, mentor assigned, path to the full-time role.
 
