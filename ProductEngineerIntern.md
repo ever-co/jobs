@@ -1,11 +1,11 @@
 # Product Engineer Intern — AI Operator
 
-A paid 3–6 month internship operating AI agents under a senior operator. Sofia (hybrid) or remote EU.
+A paid 3–6 month internship operating AI agents under a senior operator. Fully remote, worldwide.
 
 | | |
 |---|---|
 | **Job Type** | Internship |
-| **Location** | Sofia (hybrid); Remote EU |
+| **Location** | Remote (worldwide) |
 | **Posted** | October 2026 |
 | **Contact Email** | ever@ever.tech |
 
@@ -35,9 +35,9 @@ You run several AI agents at once on real client projects. You turn tickets and 
 
 ## What you get
 
-Hourly or monthly pay (role-specific below), remote-first, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
+Hourly or monthly pay (role-specific below), fully remote, a real seat at client calls, a machine budget, model budgets that are not a bottleneck, your own agents to run, and authorship: the agents you improve carry your name in their changelog.
 
-Terms: paid, 20–40 h/week, Sofia hybrid or remote EU, laptop + model budget provided, mentor assigned, path to the full-time role.
+Terms: paid, 20–40 h/week, remote (worldwide), laptop + model budget provided, mentor assigned, path to the full-time role.
 
 Stack: TypeScript end to end (NestJS, Next.js, Angular, React Native), Rust and SolidJS for our newer platforms, PostgreSQL, Kubernetes on our own cluster, GitHub, Linear/Plane, Slack/Telegram/Discord. Agents run on Claude Code / Agent SDK, Codex, OpenClaw and OpenHands, chosen per agent, each on its own isolated machine; you operate them from our operator console. Runtimes change, judgement does not.
 
@@ -55,7 +55,7 @@ We anonymise applicant data 12 months after an application closes, or earlier on
 
 ## About Us
 
-Ever Technologies is a software agency founded in Israel in 2015 with an engineering office in Bulgaria since 2017. We build products for clients and our own open-source platforms (Ever Gauzy, Ever Teams, Ever Works, Ever Rec, Ever Traduora — 100+ contributors). Today we sell three things by the hour: our human product engineers, human-operated agents — pre-built AI engineers that our people operate — and teams of both, led by one of us. Clients hire our humans on Upwork (and soon on Cloc Now) and our agents and teams by the hour on Cloc Now; our agents are branded Ever Agents, and they build on our own platforms, Ever Works and Ever Platform.
+Ever Technologies is a software agency founded in Israel in 2015 and an engineering company in Bulgaria since 2017. We build products for clients and our own open-source platforms (Ever Gauzy, Ever Teams, Ever Works, Ever Rec, Ever Traduora — 100+ contributors). Today we sell three things by the hour: our human product engineers, human-operated agents — pre-built AI engineers that our people operate — and teams of both, led by one of us. Clients hire our humans directly or on Upwork (and soon on Cloc Now) and our agents and teams by the hour on Cloc Now; our agents are branded Ever Agents, and they build on our own platforms, Ever Works and Ever Platform.
 
 Small senior teams, daily written updates, weekly demos, everything in the client's repos from day one. We use AI for everything it is good at and we check all of it. We ship in weeks, and we keep shipping.
 
