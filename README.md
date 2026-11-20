@@ -8,7 +8,7 @@ At [Ever Tech](https://ever.tech) there are three ways in: an internship, a full
 * [Product Engineer — AI Operator](https://github.com/ever-co/jobs/blob/master/ProductEngineer.md): Own client outcomes with a small team of AI agents. Fully remote, worldwide.
 * [Senior Product Engineer — AI Operator (Contract)](https://github.com/ever-co/jobs/blob/master/SeniorProductEngineerContract.md): Lead engagements, a team of agents and the client relationship as a contractor, 20–40 h/week. Fully remote, worldwide.
 
-The same roles are published at [ever.tech/careers](https://ever.tech/careers).
+The same roles are published at [ever.tech/join](https://ever.tech/join).
 
 ## How to apply
 
